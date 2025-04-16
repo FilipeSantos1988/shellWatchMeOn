@@ -5,7 +5,7 @@ All scripts are free for modification and use. Feel free to contribute or adapt 
 ---
 ## Scripts Included
 ---
--  ###  Benvindo.sh
+-  ###  Bemvindo.sh
 A simple script that greets the user based on the current time of day (morning, afternoon, evening) using conditional statements.
 
 **Functionality**: Displays a greeting message (Good morning, Good afternoon, or Good evening) based on the current hour.
